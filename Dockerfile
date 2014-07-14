@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:14.04
 MAINTAINER Arcus "http://arcus.io"
 RUN apt-get update
 ENV DEBIAN_FRONTEND noninteractive
