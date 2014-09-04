@@ -2,6 +2,8 @@
 
 Jenkins Continuous Integration
 
+Version: 1.578
+
 * `docker build -t jenkins .`
 
 Ports
